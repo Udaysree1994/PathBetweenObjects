@@ -1,0 +1,12 @@
+/Users/uday/Projects/test/test/bin/Debug/netcoreapp3.1/test.deps.json
+/Users/uday/Projects/test/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.json
+/Users/uday/Projects/test/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.dev.json
+/Users/uday/Projects/test/test/bin/Debug/netcoreapp3.1/test.dll
+/Users/uday/Projects/test/test/bin/Debug/netcoreapp3.1/test.pdb
+/Users/uday/Projects/test/test/obj/Debug/netcoreapp3.1/test.csprojAssemblyReference.cache
+/Users/uday/Projects/test/test/obj/Debug/netcoreapp3.1/test.AssemblyInfoInputs.cache
+/Users/uday/Projects/test/test/obj/Debug/netcoreapp3.1/test.AssemblyInfo.cs
+/Users/uday/Projects/test/test/obj/Debug/netcoreapp3.1/test.csproj.CoreCompileInputs.cache
+/Users/uday/Projects/test/test/obj/Debug/netcoreapp3.1/test.dll
+/Users/uday/Projects/test/test/obj/Debug/netcoreapp3.1/test.pdb
+/Users/uday/Projects/test/test/obj/Debug/netcoreapp3.1/test.genruntimeconfig.cache
